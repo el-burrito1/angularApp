@@ -1,0 +1,38 @@
+2014-04-22 22:24:50.206 HelloCordova[56901:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-22 22:24:50.228 HelloCordova[56901:70b] Unlimited access to network resources
+2014-04-22 22:24:50.361 HelloCordova[56901:70b] Init FacebookConnect Session
+2014-04-22 22:24:50.361 HelloCordova[56901:70b] [CDVTimer][facebookconnectplugin] 0.663042ms
+2014-04-22 22:24:50.362 HelloCordova[56901:70b] [CDVTimer][TotalPluginStartup] 0.995994ms
+2014-04-22 22:24:50.777 HelloCordova[56901:70b] Resetting plugins due to page load.
+2014-04-22 22:24:50.930 HelloCordova[56901:70b] Finished load of: file:///Users/spencer/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E16F6EED-F04F-40BD-A36B-988A1E808490/HelloCordova.app/www/index.html#/
+2014-04-22 22:24:58.107 HelloCordova[56901:70b] ERROR: Method 'init:' not defined in Plugin 'org.apache.cordova.facebook.Connect'
+2014-04-22 22:24:58.107 HelloCordova[56901:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "org.apache.cordova.facebook.Connect1619299696",
+  "org.apache.cordova.facebook.Connect",
+  "init",
+  [
+    "443530475777959"
+  ]
+]
+2014-04-22 22:25:13.999 HelloCordova[56901:70b] THREAD WARNING: ['org.apache.cordova.facebook.Connect'] took '15.373047' ms. Plugin should use a background thread.
+2014-04-22 22:25:45.328 HelloCordova[56901:70b] handle url: fb443530475777959://authorize/#granted_scopes=public_profile%2Cbasic_info%2Cemail%2Ccontact_email%2Cuser_friends&access_token=CAAGTY3x0r6cBAPNtE3gyWfwx1oOIBMxGpZB8Dc4zHqH3ti43aKZBMpgWQbqiXREvx9GE5iZAKGlm6lyYR8PCTBj7nZAtkfPXGxMLL4oLL1pyaclVaZAirsP3ZAC2ZBpXY9OuSIQyQcZAnolYdWcB4Xiy8sJELyUmvZAxyn8vE1CTZCsxtXburLUWZAGvmctD6KBw0RALXowZAb3qq5aj0pzGcXlAcwW4zmKZB93EZD&expires_in=5184000&state=%7B%22is_open_session%22%3Atrue%2C%22is_active_session%22%3Atrue%2C%22com.facebook.sdk_client_state%22%3Atrue%2C%223_method%22%3A%22browser_auth%22%2C%220_auth_logger_id%22%3A%2277C61BD8-F8BB-4861-BA8F-055AD54B84DF%22%7D
+Terminating in response to SpringBoard's termination.
+2014-04-22 22:34:25.501 HelloCordova[83079:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-22 22:34:25.507 HelloCordova[83079:70b] Unlimited access to network resources
+2014-04-22 22:34:25.526 HelloCordova[83079:70b] Init FacebookConnect Session
+2014-04-22 22:34:25.528 HelloCordova[83079:70b] [CDVTimer][facebookconnectplugin] 2.366960ms
+2014-04-22 22:34:25.529 HelloCordova[83079:70b] [CDVTimer][TotalPluginStartup] 2.694011ms
+2014-04-22 22:34:25.597 HelloCordova[83079:70b] Resetting plugins due to page load.
+2014-04-22 22:34:25.995 HelloCordova[83079:70b] Finished load of: file:///Users/spencer/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E16F6EED-F04F-40BD-A36B-988A1E808490/HelloCordova.app/www/index.html#/
+2014-04-22 22:34:32.088 HelloCordova[83079:70b] ERROR: Method 'init:' not defined in Plugin 'org.apache.cordova.facebook.Connect'
+2014-04-22 22:34:32.088 HelloCordova[83079:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "org.apache.cordova.facebook.Connect1393869018",
+  "org.apache.cordova.facebook.Connect",
+  "init",
+  [
+    "443530475777959"
+  ]
+]
+2014-04-22 22:34:47.322 HelloCordova[83079:70b] handle url: fb443530475777959://authorize/#granted_scopes=public_profile%2Cbasic_info%2Cemail%2Ccontact_email%2Cuser_friends&access_token=CAAGTY3x0r6cBAI7ExEGmRwbeqklmOGZCpK9KjAY01EbHcf5PV2wLMapWla0ODV2AxxRZCSRyYrIScSFNrOgBTDPce01BnS0cLMaybEkOiZAOGZAlLZC5FZBGk6jnrPFveOsT3GJlvXZAoDZCwjx6CDo7tC5UPS8W70vDkZAuVihC6LlAM5e9Fk56lded9IIsuzfxHh39e463kKLzsOUsPZCXpFPSqaafLYSXIZD&expires_in=5183458&state=%7B%22is_open_session%22%3Atrue%2C%22is_active_session%22%3Atrue%2C%22com.facebook.sdk_client_state%22%3Atrue%2C%223_method%22%3A%22browser_auth%22%2C%220_auth_logger_id%22%3A%22F2088B04-5D59-4CEA-AF9B-F1D791709A30%22%7D
+2014-04-22 22:34:47.500 HelloCordova[83079:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-04-22 22:34:47.506 HelloCordova[83079:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
